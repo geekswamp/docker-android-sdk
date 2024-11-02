@@ -1,7 +1,7 @@
 name: Publish Registry to ghcr.io
 
 env:
-  DOCKER_TAG: ghcr.io/arifai/android-sdk
+  DOCKER_TAG: ghcr.io/geekswamp/android-sdk
 
 on:
   push:

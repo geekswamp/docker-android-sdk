@@ -1,6 +1,6 @@
-FROM ghcr.io/arifai/android-sdk:latest
+FROM ghcr.io/geekswamp/android-sdk:latest
 
-LABEL org.opencontainers.image.source https://github.com/arifai/docker-android-sdk
+LABEL org.opencontainers.image.source https://github.com/geekswamp/docker-android-sdk
 LABEL org.opencontainers.image.description Android NDK on Ubuntu Linux
 LABEL org.opencontainers.image.licenses MIT
 
